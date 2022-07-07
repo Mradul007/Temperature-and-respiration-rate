@@ -5,6 +5,7 @@ Opencv<br />
 numpy<br />
 matplotlib<br />
 seaborn<br />
+scipy<br />
 # Important files(YOLO)
 coco-Copy.names<br />
 yolov3-tiny.cfg<br />
