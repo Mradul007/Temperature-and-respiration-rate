@@ -13,9 +13,9 @@ coco-Copy.names<br />
 # Classifier file for Nose Detection
 Cascade.xml
 # Dataset
-[dataset](https://drive.google.com/file/d/15M--ahcyOHA2eQKHL5KrKsDQbeyc9GtD/view?usp=sharing)
+[Dataset](https://drive.google.com/file/d/15M--ahcyOHA2eQKHL5KrKsDQbeyc9GtD/view?usp=sharing)
 # Reading
 [GUI for training classifier](https://amin-ahmadi.com/cascade-trainer-gui/)<br/>
 [Report](https://docs.google.com/document/d/1URJrFHAWdw8JKy27v4zKAIhQKhx3uH3k/edit?usp=sharing&ouid=111435153361291833878&rtpof=true&sd=true)<br/>
 # Laptop Configuration
-For training classifier the laptop configuration used has intel i7 processor with 16GB ram.
+For training Haar classifier the laptop configuration used has intel i7 8th gen processor, nvdia 1660 with 16GB ram .
