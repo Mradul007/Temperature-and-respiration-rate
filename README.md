@@ -1,7 +1,7 @@
 # Temperature-and-respiration-rate
 Temperature and Respiration Detection from Thermal Images
 # Important Librararies 
-Opencv<br />
+OpenCV<br />
 numpy<br />
 matplotlib<br />
 seaborn<br />
